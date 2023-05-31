@@ -1,0 +1,68 @@
+[
+  {
+    "id": "/subscriptions/7e8e3d8b-45d6-47f9-a609-7bf271d68182/resourceGroups/testresoursegroupdmp",
+    "location": "eastus2",
+    "managedBy": null,
+    "name": "testresoursegroupdmp",
+    "properties": {
+      "provisioningState": "Succeeded"
+    },
+    "tags": null,
+    "type": "Microsoft.Resources/resourceGroups"
+  },
+  {
+    "id": "/subscriptions/7e8e3d8b-45d6-47f9-a609-7bf271d68182/resourceGroups/testregroup",
+    "location": "eastus2",
+    "managedBy": null,
+    "name": "testregroup",
+    "properties": {
+      "provisioningState": "Succeeded"
+    },
+    "tags": null,
+    "type": "Microsoft.Resources/resourceGroups"
+  },
+  {
+    "id": "/subscriptions/7e8e3d8b-45d6-47f9-a609-7bf271d68182/resourceGroups/testregroupsmp3",
+    "location": "eastus2",
+    "managedBy": null,
+    "name": "testregroupsmp3",
+    "properties": {
+      "provisioningState": "Succeeded"
+    },
+    "tags": null,
+    "type": "Microsoft.Resources/resourceGroups"
+  },
+  {
+    "id": "/subscriptions/7e8e3d8b-45d6-47f9-a609-7bf271d68182/resourceGroups/abcd-498575633",
+    "location": "eastus2",
+    "managedBy": null,
+    "name": "abcd-498575633",
+    "properties": {
+      "provisioningState": "Succeeded"
+    },
+    "tags": null,
+    "type": "Microsoft.Resources/resourceGroups"
+  },
+  {
+    "id": "/subscriptions/7e8e3d8b-45d6-47f9-a609-7bf271d68182/resourceGroups/abcd-1285916597",
+    "location": "eastus2",
+    "managedBy": null,
+    "name": "abcd-1285916597",
+    "properties": {
+      "provisioningState": "Succeeded"
+    },
+    "tags": null,
+    "type": "Microsoft.Resources/resourceGroups"
+  },
+  {
+    "id": "/subscriptions/7e8e3d8b-45d6-47f9-a609-7bf271d68182/resourceGroups/newrgfordmp",
+    "location": "eastus",
+    "managedBy": null,
+    "name": "newrgfordmp",
+    "properties": {
+      "provisioningState": "Succeeded"
+    },
+    "tags": null,
+    "type": "Microsoft.Resources/resourceGroups"
+  }
+]
